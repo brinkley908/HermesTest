@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HermesTest.App/HermesTest.App.csproj" />
+    <Project Path="src/HermesTest.Core/HermesTest.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HermesTest.Core.Tests/HermesTest.Core.Tests.csproj" />
+  </Folder>
+</Solution>
