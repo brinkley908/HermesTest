@@ -7,3 +7,6 @@ Tasks: Implement the spec, run the project’s relevant tests and checks, and in
 
 If the changes pass checks, commit and push the branch, open a PR against the default branch. Do not merge. Verify the PR URL and reviewers before reporting back. Stop and ask if anything is unclear or needs approval.
 <!-- hermes:action:end -->
+
+<!-- hermes:status:completed -->
+PR: https://github.com/brinkley908/HermesTest/pull/2
