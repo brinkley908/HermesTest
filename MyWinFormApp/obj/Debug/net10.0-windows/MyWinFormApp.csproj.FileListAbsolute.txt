@@ -1,0 +1,15 @@
+/root/repo/MyWinFormApp/obj/Debug/net10.0-windows/MyWinFormApp.GeneratedMSBuildEditorConfig.editorconfig
+/root/repo/MyWinFormApp/obj/Debug/net10.0-windows/MyWinFormApp.AssemblyInfoInputs.cache
+/root/repo/MyWinFormApp/obj/Debug/net10.0-windows/MyWinFormApp.AssemblyInfo.cs
+/root/repo/MyWinFormApp/obj/Debug/net10.0-windows/MyWinFormApp.csproj.CoreCompileInputs.cache
+/root/repo/MyWinFormApp/obj/Debug/net10.0-windows/MyWinFormApp.sourcelink.json
+/root/repo/MyWinFormApp/bin/Debug/net10.0-windows/MyWinFormApp
+/root/repo/MyWinFormApp/bin/Debug/net10.0-windows/MyWinFormApp.deps.json
+/root/repo/MyWinFormApp/bin/Debug/net10.0-windows/MyWinFormApp.runtimeconfig.json
+/root/repo/MyWinFormApp/bin/Debug/net10.0-windows/MyWinFormApp.dll
+/root/repo/MyWinFormApp/bin/Debug/net10.0-windows/MyWinFormApp.pdb
+/root/repo/MyWinFormApp/obj/Debug/net10.0-windows/MyWinFormApp.dll
+/root/repo/MyWinFormApp/obj/Debug/net10.0-windows/refint/MyWinFormApp.dll
+/root/repo/MyWinFormApp/obj/Debug/net10.0-windows/MyWinFormApp.pdb
+/root/repo/MyWinFormApp/obj/Debug/net10.0-windows/MyWinFormApp.genruntimeconfig.cache
+/root/repo/MyWinFormApp/obj/Debug/net10.0-windows/ref/MyWinFormApp.dll
