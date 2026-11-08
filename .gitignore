@@ -1,0 +1,16 @@
+## .NET / Visual Studio build artifacts
+bin/
+obj/
+*.user
+*.suo
+
+## Rider
+.idea/
+
+## VS Code
+.vs/
+
+## Test results
+TestResults/
+*.trx
+coverage*.xml
