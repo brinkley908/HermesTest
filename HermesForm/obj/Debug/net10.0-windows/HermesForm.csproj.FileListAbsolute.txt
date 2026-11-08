@@ -1,0 +1,15 @@
+/root/HermesTest/HermesForm/obj/Debug/net10.0-windows/HermesForm.GeneratedMSBuildEditorConfig.editorconfig
+/root/HermesTest/HermesForm/obj/Debug/net10.0-windows/HermesForm.AssemblyInfoInputs.cache
+/root/HermesTest/HermesForm/obj/Debug/net10.0-windows/HermesForm.AssemblyInfo.cs
+/root/HermesTest/HermesForm/obj/Debug/net10.0-windows/HermesForm.csproj.CoreCompileInputs.cache
+/root/HermesTest/HermesForm/obj/Debug/net10.0-windows/HermesForm.sourcelink.json
+/root/HermesTest/HermesForm/bin/Debug/net10.0-windows/HermesForm
+/root/HermesTest/HermesForm/bin/Debug/net10.0-windows/HermesForm.deps.json
+/root/HermesTest/HermesForm/bin/Debug/net10.0-windows/HermesForm.runtimeconfig.json
+/root/HermesTest/HermesForm/bin/Debug/net10.0-windows/HermesForm.dll
+/root/HermesTest/HermesForm/bin/Debug/net10.0-windows/HermesForm.pdb
+/root/HermesTest/HermesForm/obj/Debug/net10.0-windows/HermesForm.dll
+/root/HermesTest/HermesForm/obj/Debug/net10.0-windows/refint/HermesForm.dll
+/root/HermesTest/HermesForm/obj/Debug/net10.0-windows/HermesForm.pdb
+/root/HermesTest/HermesForm/obj/Debug/net10.0-windows/HermesForm.genruntimeconfig.cache
+/root/HermesTest/HermesForm/obj/Debug/net10.0-windows/ref/HermesForm.dll
