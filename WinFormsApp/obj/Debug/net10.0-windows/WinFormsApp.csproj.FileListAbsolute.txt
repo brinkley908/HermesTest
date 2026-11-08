@@ -1,0 +1,15 @@
+/root/HermesTest/WinFormsApp/obj/Debug/net10.0-windows/WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+/root/HermesTest/WinFormsApp/obj/Debug/net10.0-windows/WinFormsApp.AssemblyInfoInputs.cache
+/root/HermesTest/WinFormsApp/obj/Debug/net10.0-windows/WinFormsApp.AssemblyInfo.cs
+/root/HermesTest/WinFormsApp/obj/Debug/net10.0-windows/WinFormsApp.csproj.CoreCompileInputs.cache
+/root/HermesTest/WinFormsApp/obj/Debug/net10.0-windows/WinFormsApp.sourcelink.json
+/root/HermesTest/WinFormsApp/bin/Debug/net10.0-windows/WinFormsApp
+/root/HermesTest/WinFormsApp/bin/Debug/net10.0-windows/WinFormsApp.deps.json
+/root/HermesTest/WinFormsApp/bin/Debug/net10.0-windows/WinFormsApp.runtimeconfig.json
+/root/HermesTest/WinFormsApp/bin/Debug/net10.0-windows/WinFormsApp.dll
+/root/HermesTest/WinFormsApp/bin/Debug/net10.0-windows/WinFormsApp.pdb
+/root/HermesTest/WinFormsApp/obj/Debug/net10.0-windows/WinFormsApp.dll
+/root/HermesTest/WinFormsApp/obj/Debug/net10.0-windows/refint/WinFormsApp.dll
+/root/HermesTest/WinFormsApp/obj/Debug/net10.0-windows/WinFormsApp.pdb
+/root/HermesTest/WinFormsApp/obj/Debug/net10.0-windows/WinFormsApp.genruntimeconfig.cache
+/root/HermesTest/WinFormsApp/obj/Debug/net10.0-windows/ref/WinFormsApp.dll
