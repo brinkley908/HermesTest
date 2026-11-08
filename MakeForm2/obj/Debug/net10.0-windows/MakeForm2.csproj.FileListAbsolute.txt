@@ -1,0 +1,15 @@
+/root/HermesTest/MakeForm2/bin/Debug/net10.0-windows/MakeForm2
+/root/HermesTest/MakeForm2/bin/Debug/net10.0-windows/MakeForm2.deps.json
+/root/HermesTest/MakeForm2/bin/Debug/net10.0-windows/MakeForm2.runtimeconfig.json
+/root/HermesTest/MakeForm2/bin/Debug/net10.0-windows/MakeForm2.dll
+/root/HermesTest/MakeForm2/bin/Debug/net10.0-windows/MakeForm2.pdb
+/root/HermesTest/MakeForm2/obj/Debug/net10.0-windows/MakeForm2.GeneratedMSBuildEditorConfig.editorconfig
+/root/HermesTest/MakeForm2/obj/Debug/net10.0-windows/MakeForm2.AssemblyInfoInputs.cache
+/root/HermesTest/MakeForm2/obj/Debug/net10.0-windows/MakeForm2.AssemblyInfo.cs
+/root/HermesTest/MakeForm2/obj/Debug/net10.0-windows/MakeForm2.csproj.CoreCompileInputs.cache
+/root/HermesTest/MakeForm2/obj/Debug/net10.0-windows/MakeForm2.sourcelink.json
+/root/HermesTest/MakeForm2/obj/Debug/net10.0-windows/MakeForm2.dll
+/root/HermesTest/MakeForm2/obj/Debug/net10.0-windows/refint/MakeForm2.dll
+/root/HermesTest/MakeForm2/obj/Debug/net10.0-windows/MakeForm2.pdb
+/root/HermesTest/MakeForm2/obj/Debug/net10.0-windows/MakeForm2.genruntimeconfig.cache
+/root/HermesTest/MakeForm2/obj/Debug/net10.0-windows/ref/MakeForm2.dll
